@@ -16,7 +16,7 @@ spec:
       - env:
         - name: var_name
           value: test
-        image: quay.io/redhat-appstudio-qe/test-images@sha256:c14f325372d73ca0c0b3622bb4121616d17112a985e58549760afe106b8f6784
+        image: quay.io/redhat-appstudio-qe/test-images@sha256:bf5ef862e8eb6a37bc4a91d8ddb178ac6919c2e4866db28640d9903d8fe24ef3
         name: container-image
         resources: {}
 status: {}
